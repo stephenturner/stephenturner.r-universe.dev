@@ -1,0 +1,14 @@
+[
+    {
+        "package": "pracpac",
+        "url": "https://github.com/signaturescience/pracpac"
+    },
+    {
+        "package": "biorecap",
+        "url": "https://github.com/stephenturner/biorecap"
+    },
+    {
+        "package": "tfboot",
+        "url": "https://github.com/colossal-compsci/tfboot"
+    }
+]
