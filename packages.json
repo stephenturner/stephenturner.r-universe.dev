@@ -1,10 +1,58 @@
 [
-    {
-        "package": "pracpac",
-        "url": "https://github.com/signaturescience/pracpac"
-    },
-    {
-        "package": "tfboot",
-        "url": "https://github.com/colossal-compsci/tfboot"
-    }
+  {
+    "package": "biorecap",
+    "url": "https://github.com/stephenturner/biorecap"
+  },
+  {
+    "package": "qqman",
+    "url": "https://github.com/stephenturner/qqman"
+  },
+  {
+    "package": "Tmisc",
+    "url": "https://github.com/stephenturner/Tmisc"
+  },
+  {
+    "package": "Tverse",
+    "url": "https://github.com/stephenturner/Tverse"
+  },
+  {
+    "package": "string2dna",
+    "url": "https://github.com/stephenturner/string2dna"
+  },
+  {
+    "package": "kgp",
+    "url": "https://github.com/stephenturner/kgp"
+  },
+  {
+    "package": "rpdd",
+    "url": "https://github.com/stephenturner/rpdd"
+  },
+  {
+    "package": "hcop",
+    "url": "https://github.com/stephenturner/hcop"
+  },
+  {
+    "package": "tfboot",
+    "url": "https://github.com/colossal-compsci/tfboot"
+  },
+  {
+    "package": "pracpac",
+    "url": "https://github.com/signaturescience/pracpac"
+  },
+  {
+    "package": "skater",
+    "url": "https://github.com/signaturescience/skater"
+  },
+  {
+    "package": "fiphde",
+    "url": "https://github.com/signaturescience/fiphde"
+  },
+  {
+    "package": "rplanes",
+    "url": "https://github.com/signaturescience/rplanes"
+  },
+  {
+    "package": "focustools",
+    "url": "https://github.com/signaturescience/focustools"
+  }
 ]
