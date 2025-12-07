@@ -1,5 +1,9 @@
 [
   {
+    "package": "rpkgdemo",
+    "url": "https://github.com/stephenturner/rpkgdemo"
+  },
+  {
     "package": "biorecap",
     "url": "https://github.com/stephenturner/biorecap"
   },
